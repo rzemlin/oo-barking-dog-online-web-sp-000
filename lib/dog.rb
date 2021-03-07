@@ -5,5 +5,7 @@ class Dog
   def name
     @new_dog_name
   end
+  def bark
+    @puts "Woof!"
 end
 # Your code goes here!
